@@ -8,12 +8,23 @@
 [![PySide6](https://img.shields.io/badge/PySide6-6.0%2B-green?style=for-the-badge&logo=qt&logoColor=white&labelColor=2B2B2B)](https://www.qt.io/qt-for-python)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&labelColor=2B2B2B)](LICENSE)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-cyan?style=for-the-badge&labelColor=2B2B2B)](https://github.com/yourusername/python-cython-obfuscator)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-orange?style=for-the-badge&labelColor=2B2B2B)](https://github.com/yourusername/python-cython-obfuscator/releases/latest)
 
 <p align="center">
 A professional-grade Python code protection and obfuscation tool powered by Cython
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+
+</div>
+
+## 📥 Download Latest Release
+
+<div align="center">
+
+### [👉 Download the Latest Release Here 👈](https://github.com/samay825/Python-Cython-Obfuscator/releases/tag/v1.0.0)
+
+
 
 </div>
 
@@ -55,26 +66,6 @@ Python Cython Obfuscator is an enterprise-level solution for protecting your Pyt
 - Python 3.10 or higher
 - Administrator privileges for installation
 
-### Step-by-Step Installation
-
-1. **Download the Latest Release**
-   ```bash
-   git clone https://github.com/samay825/python-cython-obfuscator.git
-   cd python-cython-obfuscator
-   ```
-
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the Application**
-   - Simply double-click `python-obfuscator.exe`
-   - Or run from terminal: `./python-obfuscator.exe`
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500" alt="Program launching">
-</div>
 
 ### Quick Usage Guide
 
@@ -164,7 +155,7 @@ ENTERPRISE_FEATURES = {
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="500">
 </div>
 
-For detailed documentation, please visit our [Wiki](https://github.com/yourusername/python-cython-obfuscator/wiki)
+For detailed documentation, please visit our [Wiki](https://github.com/samay825/python-cython-obfuscator/wiki)
 
 ## 🔄 Workflow
 
@@ -204,10 +195,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Developed by [Zork Technologies](https://github.com/samay825)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
 
 <br>
 
-[![Enterprise](https://img.shields.io/badge/Enterprise-Ready-purple?style=for-the-badge&labelColor=2B2B2B)](https://github.com/samay825/python-cython-obfuscator)
+[![Enterprise](https://img.shields.io/badge/Enterprise-Ready-purple?style=for-the-badge&labelColor=2B2B2B)](https://github.com/yourusername/python-cython-obfuscator)
 
 </div> 
