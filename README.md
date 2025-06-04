@@ -18,15 +18,25 @@ A professional-grade Python code protection and obfuscation tool powered by Cyth
 
 </div>
 
-## 📥 Download Latest Release
+## 📥 Download & Installation
 
 <div align="center">
 
 ### [👉 Download the Latest Release Here 👈](https://github.com/samay825/Python-Cython-Obfuscator/releases/tag/v1.0.0)
 
-
-
 </div>
+
+### Installation Steps:
+
+1. **Download** the ZIP file from the release page
+2. **Extract** the ZIP file to your preferred location
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Launch the Application:**
+   - Double-click `python-obfuscator.exe` to start the application
+   - Alternatively, run via command line: `./python-obfuscator.exe`
 
 ## 📋 Overview
 
@@ -37,7 +47,9 @@ A professional-grade Python code protection and obfuscation tool powered by Cyth
 Python Cython Obfuscator is an enterprise-level solution for protecting your Python intellectual property. By leveraging Cython's compilation process, it transforms your Python source code into highly optimized and obfuscated binary files, making reverse engineering practically impossible.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="500">
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ## ⚡ Key Features
@@ -65,18 +77,6 @@ Python Cython Obfuscator is an enterprise-level solution for protecting your Pyt
 - Windows 10/11 or Linux/MacOS
 - Python 3.10 or higher
 - Administrator privileges for installation
-
-
-### Quick Usage Guide
-
-1. Launch python-obfuscator.exe
-2. Select your Python files
-3. Click "Compile" to start protection
-4. Access protected files in the `CompiledPython` directory
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-</div>
 
 ## 🛡️ Security Features
 
