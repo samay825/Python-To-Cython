@@ -20,23 +20,37 @@ A professional-grade Python code protection and obfuscation tool powered by Cyth
 
 ## 📥 Download & Installation
 
-<div align="center">
+### Prerequisites
 
-### [👉 Download the Latest Release Here 👈](https://github.com/samay825/Python-Cython-Obfuscator/releases/tag/v1.0.0)
-
-</div>
+- Windows 10/11 or Linux/MacOS
+- Python 3.10 or higher
+- Visual Studio 2022 Build Tools
 
 ### Installation Steps:
 
-1. **Download** the ZIP file from the release page
-2. **Extract** the ZIP file to your preferred location
+1. **Install Visual Studio Build Tools:**
+   - Download from [Visual Studio Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+   - During installation, select "✓ Desktop development with C++"
+   - This includes:
+     - MSVC (Microsoft C++ compiler)
+     - Windows 10/11 SDK
+     - CMake
+     - Build tools (MSBuild)
+   - These components are required for Python/Cython to compile extensions
+
+2. **Get the Code:**
+   - Clone the repository: `git clone https://github.com/samay825/Python-Cython-Obfuscator.git`
+   - Or download the ZIP file and extract it
+
 3. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-4. **Launch the Application:**
-   - Double-click `python-obfuscator.exe` to start the application
-   - Alternatively, run via command line: `./python-obfuscator.exe`
+
+4. **Run the Application:**
+   ```bash
+   python main.py
+   ```
 
 ## 📋 Overview
 
