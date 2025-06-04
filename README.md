@@ -40,16 +40,12 @@ A professional-grade Python code protection and obfuscation tool powered by Cyth
 
 ## 📋 Overview
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" align="right" alt="secure-code">
-</div>
-
 Python Cython Obfuscator is an enterprise-level solution for protecting your Python intellectual property. By leveraging Cython's compilation process, it transforms your Python source code into highly optimized and obfuscated binary files, making reverse engineering practically impossible.
 
-<div align="center">
-  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 </div>
 
 ## ⚡ Key Features
