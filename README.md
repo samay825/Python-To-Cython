@@ -44,6 +44,7 @@
 3. **Run the Application:**
    - Open the extracted folder
    - Double-click `Python Obfuscator.exe` to start
+   - Security pin is 4444
 
 
 
