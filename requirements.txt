@@ -1,4 +1,5 @@
-PySide6>=6.5.0
-Cython>=3.0.0
+PyQt5
+cython
 setuptools>=65.0.0
+
 
